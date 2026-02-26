@@ -13,3 +13,7 @@ This document explains how to integrate and customize the `ExtractDocumentWidget
 
 `src/extract-document-widget/ExtractDocumentWidget.tsx`
 
+## Use
+
+import { ExtractDocumentWidget } from '@/extract-document-widget/ExtractDocumentWidget';
+
