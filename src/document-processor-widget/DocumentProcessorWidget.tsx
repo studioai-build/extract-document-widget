@@ -4,7 +4,7 @@ import DocumentViewer from './components/DocumentViewer';
 import ExtractedDataPanel from './components/ExtractedDataPanel';
 import { mockExtractedData } from './constants/mockData';
 
-export function ExtractDocumentWidget() {
+export function DocumentProcessorWidget() {
   const [extractedData] = useState(mockExtractedData);
 
   return (
